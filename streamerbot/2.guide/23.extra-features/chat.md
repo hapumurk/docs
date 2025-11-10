@@ -17,6 +17,7 @@ Streamer.bot ships with a built-in chat client to provide you with direct integr
   - :icon{name="i-mdi-twitch" class="text-violet-400 h-4 my-0 inline-block"} **Twitch**
   - :icon{name="i-simple-icons-youtube" class="text-red-400 h-4 my-0 inline-block"} **YouTube**
   - :icon{name="IconTrovo" class="text-emerald-400 h-4 my-0 inline-block"} **Trovo**
+  - :icon{name="i-mdi-kick" class="text-green-400 h-4 my-0 inline-block"} **Kick**
 
   To suggest a new platform, visit [Streamer.bot Ideas & Suggestions](https://ideas.streamer.bot)
   <br>
